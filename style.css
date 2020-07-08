@@ -1,16 +1,23 @@
 body {
-    background-color: yellow;
+    background-color: #62daff;
     text-align: center;
     font-family: 'lobster';
+    
 }
-
+p {
+    width: 1000px;
+    margin-left: 50px;
+}
 img {
 border-radius: 20px;
 border: solid black 20px;
 margin-left: 25px;
+height: 200px;
+width: 200px;
 }
 .LikesAndDislikes {
     text-align: left;
-    font-size: 50px;
-    color: blue;
+    font-size: 30px;
+    color: #ff6c62;
+    margin-left: 100px;
 }
